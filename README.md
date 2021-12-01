@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-[![kb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleab222)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![kb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleab222)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🧰 Languages and Tools:
 <p>
